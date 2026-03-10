@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Additional / Supporting Roles
+(Recently expanded — see docs/octoacme-roles-and-personas.md for detailed definitions)
+- Business Analyst (BA)
+- DevOps Engineer
+- UX Designer
+- Executive Sponsor
+- Customer Advocate
+
+These roles often provide critical inputs, governance, or operational capabilities that complement the core delivery team. Refer to docs/octoacme-roles-and-personas.md for responsibilities and interaction patterns.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -44,3 +54,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Reference docs/roles-and-personas-checklist.md when introducing or updating a role.

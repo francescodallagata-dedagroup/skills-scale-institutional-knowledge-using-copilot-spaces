@@ -33,6 +33,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+Notes on role interactions during execution:
+- DevOps Engineer: coordinates scheduled deployments, supports CI/CD stabilization, manages runbooks for post-deploy verification. For deployments that affect timelines or require special windows, PM and DevOps should coordinate to ensure alignment with release plan.
+- Customer Advocate: collects and surfaces real-world feedback post-release. When customer issues impact project priorities or require rapid fixes, Customer Advocate works with PdM and PM to re-prioritize or trigger incident response.
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
